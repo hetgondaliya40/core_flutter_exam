@@ -137,6 +137,5 @@ Flutter concepts.
 
 ### Video:
 
-https://github.com/SJaynesh/e_commerce_app_core_flutter_05/assets/115562979/a299aa11-7167-40d7-a67e-27768a4c710b
 
 <br>
